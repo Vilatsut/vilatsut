@@ -62,9 +62,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vilatsut&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vilatsut&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c3c1723d-554e-47f8-8105-8d239d5df2f1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 ###
 <div align="center">
   <a href="https://open.spotify.com/user/vilatsut">
