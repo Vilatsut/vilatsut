@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/v2/D4D03AQG9kfWk7AMPqw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1702750648594?e=1744848000&v=beta&t=ELd4ibK4xj_ZYkjirLvrkOLuNxqLUnxitLneO916Jdk"  />
+  <img height="200" src="assets/IMG_20221030_145020.jpg"  />
 </div>
 
 ###
@@ -62,6 +62,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vilatsut&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vilatsut&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<p align="center">
+  <a href="[https://example.com](https://www.credly.com/badges/c3c1723d-554e-47f8-8105-8d239d5df2f1/public_url)">
+    <img src="assets/github-foundations.png" alt="Alt Text">
+  </a>
+</p>
 
 ###
 
