@@ -57,15 +57,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vilatsut&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/vilatsut">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=vilatsut&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-# Certifications
+## Certifications
 
 <div align="center">
     <a href="https://www.credly.com/badges/c3c1723d-554e-47f8-8105-8d239d5df2f1/public_url">
