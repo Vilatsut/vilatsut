@@ -15,12 +15,12 @@
 ## Certifications
 
 <div align="center">
-    <a href="https://www.credly.com/badges/c3c1723d-554e-47f8-8105-8d239d5df2f1/public_url">
-      <img src="assets/github-foundations.png" alt="Alt Text">
-    </a>
-    <a href="assets/cuda_cert.png">
-      <img src="assets/cuda_badge.png" alt="Alt Text">
-    </a>
+  <a href="https://www.credly.com/badges/c3c1723d-554e-47f8-8105-8d239d5df2f1/public_url">
+    <img src="assets/github-foundations.png" alt="Alt Text" style="height:150px; width:150px; object-fit:cover;">
+  </a>
+  <a href="assets/cuda_cert.png">
+    <img src="assets/cuda_badge.png" alt="Alt Text" style="height:150px; width:150px; object-fit:cover;">
+  </a>
 </div>
 
 ###
