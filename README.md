@@ -19,7 +19,7 @@
       <img src="assets/github-foundations.png" alt="Alt Text">
     </a>
     <a href="assets/cuda_cert.png">
-      <img src="assets/default_badge.png" alt="Alt Text">
+      <img src="assets/cuda_badge.png" alt="Alt Text">
     </a>
 </div>
 
