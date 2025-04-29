@@ -21,7 +21,7 @@
     <img src="assets/github-foundations.png" alt="Alt Text" style="height:300px; width:300px; object-fit:cover;">
   </a>
   <a href="assets/cuda_cert.png">
-    <img src="assets/cuda_badge.png" alt="Alt Text" style="height:300px; width:300px; object-fit:cover;">
+    <img src="assets/cuda_badge1.png" alt="Alt Text" style="height:300px; width:300px; object-fit:cover;">
   </a>
 </div>
 
